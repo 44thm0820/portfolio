@@ -4,14 +4,14 @@
       "titles": [ "Software Developer" ],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com",
+          "name": "My Github",
+          "url": "https://github.com/44thm0820",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "My LinkedIn",
+          "url": "https://www.linkedin.com/in/reymercadousa/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myphoto.jpeg"
