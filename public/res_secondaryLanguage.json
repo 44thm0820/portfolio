@@ -1,119 +1,103 @@
 {
-  "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I'm Rey Mercado.  I'm working with an in-demand front-end framework React. I am studying to become a full-stack developer at Code Fellows and will be open to being hired by end of March 2022. What you are seeing now is a portfolio template from Code Fellows, assigned to me to personalize as part of an assignment for their 301 Course. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-    "section_name": {
-      "about": "About me",
-      "projects": "Projects",
-      "skills": "Skills",
-      "experience": "Experience"
-    }
-  },
-  "projects": [
-    {
-      "title": "My BART Train is leaving when?",
-      "startDate": "2018",
-      "description": "Final Project submitted on 18 October 2018 to Galvanize's Front End course that ended 20 October 2018. I was asked to create an app using vanilla JS that connected to a public API. I chose to use San Francisco's BART Bay Area Rapid Transit API that is provided free to all developers to make their own apps. ",
-      "images": [
-        "images/portfolio/photography/b1.jpeg",
-        "images/portfolio/photography/b2.png",
-        "images/portfolio/photography/b3.png",
-        "images/portfolio/photography/b4.jpeg",
-        "images/portfolio/photography/b5.jpeg"
-      ],
-      "url": "https://44thm0820.github.io/finalproj-webdevfe/",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Rey Mercado.  I'm working with an in-demand front-end framework React. I am studying at Code Fellows in order to become a full-stack developer and will be open to being hired by end of March 2022. What you are seeing now is a portfolio template from Code Fellows, assigned to me to personalize as part of an assignment for their 301 Course. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
     },
-    {
-      "title": "My BART Train is leaving when?",
-      "startDate": "2018",
-      "description": "Final Project submitted on 18 October 2018 to Galvanize's Front End course that ended 20 October 2018. I was asked to create an app using vanilla JS that connected to a public API. I chose to use San Francisco's BART Bay Area Rapid Transit API that is provided free to all developers to make their own apps. ",
-      "images": [
-        "images/portfolio/photography/b4.jpeg",
-        "images/portfolio/photography/b2.png",
-        "images/portfolio/photography/b1.jpeg",
-        "images/portfolio/photography/b3.png",
-        "images/portfolio/photography/b5.jpeg"
-      ],
-      "url": "https://44thm0820.github.io/finalproj-webdevfe/",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "TBD Final Project",
-      "startDate": "2021",
-      "description": "Final Project to be submitted December 2021 and will feature full-stack web development",
-      "images": [
-        "images/portfolio/photography/b5.jpeg",
-        "images/portfolio/photography/b4.jpeg",
-        "images/portfolio/photography/b3.png",
-        "images/portfolio/photography/b1.jpeg",
-        "images/portfolio/photography/b2.png"
-      ],
-      "url": "https://44thm0820.github.io/finalproj-webdevfe/",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    }
-  ],
-  "experience": [
-    {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": [
-        "Angular 8/9/10"
-      ],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": [
-        "Angular 7/8"
-      ],
-      "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
-      ]
-    }
-  ]
-}
+    "projects": [
+      {
+        "title": "My BART Train is leaving when?",
+        "startDate": "2018",
+        "description": "Final Project submitted on 18 October 2018 to Galvanize's Front End course that ended 20 October 2018. I was asked to create an app using vanilla JS that connected to a public API. I chose to use San Francisco's BART Bay Area Rapid Transit API that is provided free to all developers to make their own apps. ",
+        "images": [
+          "images/portfolio/photography/b1.jpeg",
+          "images/portfolio/photography/b2.png",
+          "images/portfolio/photography/b3.png",
+          "images/portfolio/photography/b4.jpeg",
+          "images/portfolio/photography/b5.jpeg"
+        ],
+        "url": "https://44thm0820.github.io/finalproj-webdevfe/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "My BART Train is leaving when?",
+        "startDate": "2018",
+        "description": "Final Project submitted on 18 October 2018 to Galvanize's Front End course that ended 20 October 2018. I was asked to create an app using vanilla JS that connected to a public API. I chose to use San Francisco's BART Bay Area Rapid Transit API that is provided free to all developers to make their own apps. ",
+        "images": [
+          "images/portfolio/photography/b4.jpeg",
+          "images/portfolio/photography/b2.png",
+          "images/portfolio/photography/b1.jpeg",
+          "images/portfolio/photography/b3.png",
+          "images/portfolio/photography/b5.jpeg"
+        ],
+        "url": "https://44thm0820.github.io/finalproj-webdevfe/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "TBD Final Project",
+        "startDate": "2021",
+        "description": "Final Project to be submitted December 2021 and will feature full-stack web development",
+        "images": [
+          "images/portfolio/photography/b5.jpeg",
+          "images/portfolio/photography/b4.jpeg",
+          "images/portfolio/photography/b3.png",
+          "images/portfolio/photography/b1.jpeg",
+          "images/portfolio/photography/b2.png"
+        ],
+        "url": "https://44thm0820.github.io/finalproj-webdevfe/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Student",
+        "title": "Full-Stack Developer",
+        "years": "6.2018 - present",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Bootstrap",
+          "jQuery",
+          "REST API",
+          "Git"
+        ]
+      }
+    ]
+  }
